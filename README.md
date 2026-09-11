@@ -58,6 +58,7 @@ I build production systems end to end: mobile apps, realtime backends and deploy
 <!-- PROJECTS:START -->
 | Project | What it is | Stack |
 |---|---|---|
+| [**LLMSiege**](https://github.com/MuhammadNoman2/llm-siege) | LLM attack and defense lab: one assistant built three ways (vulnerable, basic guardrails, secure by architecture) plus an automated attack harness, mapped to OWASP LLM Top 10 and MITRE ATLAS | Python · FastAPI · pytest · Docker |
 | [**Quran AI Recitation API**](https://github.com/MuhammadNoman2/quran-ai-api) | Realtime Quran recitation recognition with word-level mistake detection over REST and WebSocket. Runs on CPU, with no GPU needed | Python · FastAPI · WebSockets · CTranslate2 · ONNX |
 | [**MK Track**](https://github.com/MuhammadNoman2/mk-track) | Multi-tenant SaaS fleet tracking: ESP32 hardware trackers, live dashboard, geofencing, alerts, reports *(case study, as the product is commercial)* | Node.js · TypeScript · PostgreSQL · MQTT · Socket.IO · React · Flutter |
 <!-- PROJECTS:END -->
@@ -67,6 +68,10 @@ I build production systems end to end: mobile apps, realtime backends and deploy
 <div align="center">
   <img src="metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
+
+## Connect
+
+<a href="https://www.linkedin.com/in/muhammadnomanflutter"><img src="https://img.shields.io/badge/LinkedIn-muhammadnomanflutter-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn: muhammadnomanflutter" /></a>
 
 ---
 
