@@ -49,6 +49,5 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, jupyter notebook, c, cmake, c++, swift, objective-c
           plugin_languages_limit: 8
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
+          # plugin_achievements is off: its query uses Projects (classic) fields, which GitHub
+          # has retired, so it only renders "Unexpected error" (lowlighter/metrics is unmaintained).
