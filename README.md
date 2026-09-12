@@ -59,6 +59,7 @@ I build production systems end to end: mobile apps, realtime backends and deploy
 | Project | What it is | Stack |
 |---|---|---|
 | [**LLMSiege**](https://github.com/MuhammadNoman2/llm-siege) | LLM attack and defense lab: one assistant built three ways (vulnerable, basic guardrails, secure by architecture) plus an automated attack harness, mapped to OWASP LLM Top 10 and MITRE ATLAS | Python · FastAPI · pytest · Docker |
+| [**Agent Warden**](https://github.com/MuhammadNoman2/agent-warden) | Secure AI agent platform: every tool call the model requests goes through a policy engine, with human approvals, tenant isolation, taint tracking and a hash-chained audit log | Python · FastAPI · LangGraph · Qdrant · React |
 | [**Quran AI Recitation API**](https://github.com/MuhammadNoman2/quran-ai-api) | Realtime Quran recitation recognition with word-level mistake detection over REST and WebSocket. Runs on CPU, with no GPU needed | Python · FastAPI · WebSockets · CTranslate2 · ONNX |
 | [**MK Track**](https://github.com/MuhammadNoman2/mk-track) | Multi-tenant SaaS fleet tracking: ESP32 hardware trackers, live dashboard, geofencing, alerts, reports *(case study, as the product is commercial)* | Node.js · TypeScript · PostgreSQL · MQTT · Socket.IO · React · Flutter |
 <!-- PROJECTS:END -->
